@@ -1,0 +1,15 @@
+{
+    "name": "insomnia-plugin-stringify",
+    "version": "1.0.0",
+    "private": false,
+    "insomnia": {
+        "name": "stringify",
+        "displayName": "Stringify",
+        "description": "A simple json body value stringifier",
+        "publisher": {
+            "name": "Joshua Kovalchik"
+        },
+        "unlisted": false
+    },
+    "main": "main.js"
+}
